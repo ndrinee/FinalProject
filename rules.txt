@@ -1,0 +1,23 @@
+Classic Blackjack:
+
+Objective: The main goal is to beat the dealer by having a hand value closer to 21 than the dealer's hand without going over 21.
+Card Values: Numbered cards (2-10) are worth their face value, face cards (Jacks, Queens, Kings) are worth 10 points, and Aces can be worth 1 or 11 points.
+Blackjack: Achieving a total of 21 with your first two cards (an Ace and a 10-value card) results in an automatic win, which pays more than a regular win.
+Hit and Stand: You can choose to "hit" (take another card) to improve your hand or "stand" to keep your current hand.
+Busting: If your hand value exceeds 21, you bust, and the dealer wins.
+
+Blackjack with a Twist:
+
+Objective: Similar to classic Blackjack, the objective is to beat the dealer, but Aces are worth only 1 point.
+Card Values: Numbered cards have their face value, and face cards are worth 10 points. Aces are worth 1 point.
+Twist: Aces are worth 1 point, unlike in classic Blackjack, where they can be worth 1 or 11 points.
+Double Aces Rule: If you have two Aces, you can split them into separate hands and continue to play with them.
+Twisted Blackjack: Achieving a total of 21 with your first two cards (an Ace and a 10-value card) still results in an automatic win, but with Aces worth 1 point.
+
+Spanish 21:
+
+Objective: The objective is to beat the dealer as in classic Blackjack, but Spanish 21 uses a unique deck without the 10-value cards (10s, Jacks, Queens, Kings).
+Card Values: Numbered cards (2-9) have their face value, face cards (Jacks, Queens, Kings) are worth 10 points, and Aces are worth 1 or 11 points.
+Unique Deck: Spanish 21 uses a deck without the 10-value cards, making it more challenging.
+Bonus Hands: Special bonus hands, such as 21 in a 5-card hand and 21 in a 6-7-8 or 7-7-7 combination of different suits, can earn extra payouts.
+Late Surrender: Spanish 21 often allows late surrender, letting you forfeit and receive half your bet back if you believe you're likely to lose.
